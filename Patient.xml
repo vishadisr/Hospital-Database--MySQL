@@ -1,0 +1,29 @@
+<PATIENTS>
+    <PATIENT>
+        <Patient_id>1011</Patient_id>
+        <Initials>K. S.</Initials>
+        <Surname>Samarasinghe</Surname>
+        <Blood_type>O+</Blood_type>
+        <Telephone>077-1190013</Telephone>
+        <Age>45</Age>
+        <Doctor_id>105</Doctor_id>
+    </PATIENT>
+    <PATIENT>
+        <Patient_id>1012</Patient_id>
+        <Initials>C. D.</Initials>
+        <Surname>Wijemanne</Surname>
+        <Blood_type>A-</Blood_type>
+        <Telephone>076-1053965</Telephone>
+        <Age>32</Age>
+        <Doctor_id>107</Doctor_id>
+    </PATIENT>
+    <PATIENT>
+        <Patient_id>1013</Patient_id>
+        <Initials>M. E.</Initials>
+        <Surname>Gunasinghe</Surname>
+        <Blood_type>B+</Blood_type>
+        <Telephone>071-3390537</Telephone>
+        <Age>55</Age>
+        <Doctor_id>101</Doctor_id>
+    </PATIENT>
+</PATIENTS>

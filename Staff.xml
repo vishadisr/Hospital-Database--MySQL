@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STAFF>
+   <EMPLOYEE>
+        <Employee_No>110</Employee_No>
+        <Gender>Male</Gender>
+        <Name>Malith Herath</Name>
+        <Address>25A, Galle Road, Colombo</Address>
+        <Telephone>077-6752380</Telephone>
+    </EMPLOYEE>
+    <EMPLOYEE>
+        <Employee_No>111</Employee_No>
+        <Gender>Female</Gender>
+        <Name>Wasana Gunasekara</Name>
+        <Address>31, Deans Road, Colombo</Address>
+        <Telephone>076-6734529</Telephone>
+    </EMPLOYEE>
+    <EMPLOYEE>
+        <Employee_No>112</Employee_No>
+        <Gender>Male</Gender>
+        <Name>Ravindu Jayaratne</Name>
+        <Address>33, Old Moor Street, Colombo5</Address>
+        <Telephone>071-4100678</Telephone>
+    </EMPLOYEE>
+
+</STAFF>
+
